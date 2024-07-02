@@ -7,10 +7,10 @@
 
 :root {
     --cor-de-fundo: pink 
-    --laranja: #EB9B00;
-    --azul-degrade: linear-gradient(97.54deg, #be5697 35.49%, #06eaf1 165.37%);
+    --white: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #f82aa9 35.49%, #06eaf1 165.37%);
     --fonte-principal: "poppins";
-    --azul: #eb089f;
+    --azul: #f8f416;
 }
 
 body {
