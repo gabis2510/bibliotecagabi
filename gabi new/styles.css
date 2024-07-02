@@ -7,7 +7,7 @@
 
 :root {
     --cor-de-fundo: rgb(248, 12, 236);
-    --branco: #FFFFFF;
+    --branco: #ad00fdbe;
     --rosa: rgb(22, 233, 198) ;
     --azul-degrade: linear-gradient(97.54deg, rgba(207, 29, 207, 0.541) 35.49%, #8aceff 165.37%);
     --fonte-principal: "font-family";
